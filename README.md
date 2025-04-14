@@ -23,14 +23,14 @@ A Study Group Productivity App is a tool designed to help students track and enh
 **Angular Version : ** Angular Version is 15.2.0 
 
 
-**Froentend Installation Steps : **
+**Froentend Installation Steps :**
 
 1. cd client 
 2. npm install 
 3. ng serve
 
 
-** Backend Installation Steps : ** 
+**Backend Installation Steps :** 
 
 1. cd server
 2. npm install
