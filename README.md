@@ -20,7 +20,7 @@ A Study Group Productivity App is a tool designed to help students track and enh
 
 **Node Version :** Node version is 23.6.0
 
-**Angular Version : ** Angular Version is 15.2.0 
+**Angular Version :** Angular Version is 15.2.0 
 
 
 **Froentend Installation Steps :**
