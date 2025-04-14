@@ -17,7 +17,7 @@ A Study Group Productivity App is a tool designed to help students track and enh
 
 **Analytics & Insights:** The app could provide insightful analytics about each student’s performance, study habits, and overall group productivity, helping identify areas for improvement.
 
-**-----------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------**
 **Node Version :** Node version is 23.6.0
 
 **Angular Version :** Angular Version is 15.2.0 
